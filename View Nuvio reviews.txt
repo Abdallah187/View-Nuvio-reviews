@@ -1,12 +1,8 @@
 1. OpenPosterDB — بوسترات مع التقييمات
 
-
-
 https://openposterdb.com/t0-free-rpdb/{id_type}/poster-default/{typed_id}.jpg
 
 
 2. BetterPosters — تصاميم بوسترات مختلفة
-
-
 
 https://btttr.cc/poster-a/imdb/poster-default/{imdb_id}.jpg
